@@ -1,0 +1,25 @@
+.App {
+  margin: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.container {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+
+}
+
+.img-container {
+  columns: 150px 5;
+  column-gap: 10px;
+}
+
+.imageListImg {
+  width: 100%;
+}
